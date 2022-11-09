@@ -1,0 +1,54 @@
+h1 {  
+    text-align: center;  
+    padding: 23px;  
+    background-color: rgb(100, 103, 104);  
+    color: white;  
+    }  
+  
+#clear{  
+width: 270px;  
+border: 3px solid rgb(238, 114, 12);  
+    border-radius: 3px;  
+    padding: 15px;  
+    background-color: rgb(43, 0, 0);  
+}  
+  
+.formstyle  
+{  
+width: 300px;  
+height: 600px;  
+margin: auto;  
+border: 3px solid rgb(215, 222, 224);  
+border-radius: 5px;  
+padding: 20px;  
+}  
+  
+  
+  
+input  
+{  
+width: 20px;  
+background-color: rgb(189, 57, 230);  
+color: white;  
+border: 3px solid rgb(236, 11, 161);  
+    border-radius: 5px;  
+    padding: 26px;  
+    margin: 5px;  
+    font-size: 15px;  
+}  
+  
+  
+#calc{  
+width: 250px;  
+border: 5px solid black;  
+    border-radius: 3px;  
+    padding: 20px;  
+    margin: auto;  
+}  
+#eql{
+    width: 135px;
+    float: left;
+}
+#sqrt{
+    width: 135px;
+}
